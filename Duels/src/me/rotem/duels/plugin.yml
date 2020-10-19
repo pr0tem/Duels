@@ -1,0 +1,13 @@
+main: me.rotem.duels.DuelsMain
+name: Duels
+version: 1.0.0
+
+commands:
+  duels:
+    description: sets the spawn
+  play:
+    description: start the que
+  points:
+    description: your rewards form minigames
+  shop:
+    description: market place to buy stuff
