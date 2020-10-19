@@ -1,0 +1,18 @@
+main: me.rotem.Essential.Essential
+name: Essential
+version: 1.0.0
+
+commands:
+  heal:
+    description: lick u in the butt.
+  feed:
+    description: slapp u in the butt.
+  fly:
+    description: kick u in the butt.
+  gmc:
+    description: creative.
+  gms:
+    description: survival.
+  smite:
+    description: smite.
+
